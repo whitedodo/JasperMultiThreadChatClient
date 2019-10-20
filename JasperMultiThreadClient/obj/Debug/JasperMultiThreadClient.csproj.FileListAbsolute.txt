@@ -1,0 +1,9 @@
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\bin\Debug\JasperMultiThreadClient.exe.config
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\bin\Debug\JasperMultiThreadClient.exe
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\bin\Debug\JasperMultiThreadClient.pdb
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\obj\Debug\JasperMultiThreadClient.csprojAssemblyReference.cache
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\obj\Debug\JasperMultiThreadClient.Form1.resources
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\obj\Debug\JasperMultiThreadClient.Properties.Resources.resources
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\obj\Debug\JasperMultiThreadClient.csproj.GenerateResource.cache
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\obj\Debug\JasperMultiThreadClient.exe
+C:\Users\scout\source\repos\JasperMultiThreadClient\JasperMultiThreadClient\obj\Debug\JasperMultiThreadClient.pdb
